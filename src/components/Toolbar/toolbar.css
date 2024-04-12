@@ -1,0 +1,17 @@
+.toolbar-button {
+  padding: 5px 10px;
+  margin: 0 5px 0 0;
+  transition: all 0.2s;
+  border: 1px solid #b9b9b9;
+  box-sizing: border-box;
+}
+
+.toolbar-button.active {
+  background: #545454;
+  color: #ffffff;
+}
+
+.toolbar-button:hover {
+  background: #545454;
+  color: #ffffff;
+}

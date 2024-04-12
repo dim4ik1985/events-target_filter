@@ -1,0 +1,24 @@
+ul,
+li {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.content-list {
+  margin: 20px 0 0 0;
+}
+
+.project-list {
+  width: 900px;
+  column-count: 3;
+  margin: auto;
+}
+
+.project-item img {
+  left: 10px;
+  margin: 0 0 5px 0;
+  width: 300px;
+  max-height: 400px;
+  object-fit: cover;
+}
